@@ -27,5 +27,5 @@ matplotlib / plotly for charts
 Optional: tkinter or Flask for GUI/web interface
 
 🚀 Getting Started.
-git clone https://github.com/parwaiz musharraf/stock_portfolio_tracker.git
+git clone https://github.com/parwaizmusharraf/stock_portfolio_tracker.git
 cd stock_portfolio_tracker
